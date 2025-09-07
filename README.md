@@ -1,4 +1,3 @@
-
 <html lang="en">
 
 <head>
@@ -15,8 +14,6 @@
 </head>
 <body>
   
-  
-
 
 
 <div class="header">
@@ -70,6 +67,7 @@
        </div>
   <hr>
   
+  <div class="Offer">
    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
@@ -84,8 +82,11 @@
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+  
   
    <!----featured products---->
+   <div class="Offer">
    <div class="small-container">
       <div class="row">
         
@@ -108,7 +109,6 @@
        </div>
       </div>
        </div>
-       
        
         <!--Offer 1-->
        
@@ -138,6 +138,7 @@ Click the Get Offer button below to get immediate access
       </div>
     </div>
   
+  <div class="Offer">
   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
@@ -152,9 +153,10 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
   
       <!--Latest Products-->
-      
+      <div class="Offer">
   <div class="small-container">
     <h2 class="title">Vitamins and Minerals Supplements</h2>
       <div class="row">
@@ -170,7 +172,9 @@ Click the Get Offer button below to get immediate access
   </div>
   </div>
   </div>
+  </div>
 
+     <div class="Offer">
      <div class="small-container">
      <h2 class="title">Sponsored Products</h2>
       <div class="row">
@@ -186,8 +190,9 @@ Click the Get Offer button below to get immediate access
   </div>
   </div>
   </div>
+  </div>
   
-  
+  <div class="Offer">
      <div class="small-container">
       <div class="row">
   <script type="text/javascript">
@@ -202,8 +207,9 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+  </div>
   
-  
+  <div class="Offer">
    <div class="small-container">
          <h2 class="title">Energy and Fitness </h2>
       <div class="row">
@@ -218,6 +224,7 @@ Click the Get Offer button below to get immediate access
        <h4>UpBeet</h4>
        </div>
     </div>
+   </div>
    </div>
    
     
@@ -243,7 +250,8 @@ Click the Get Offer button below to get immediate access
       </div>
     </div>
    
-      <div class="small-container">
+    <div class="Offer">
+    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -257,9 +265,11 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
    
   <!--Featured Products-->
    
+   <div class="Offer">
  <div class="small-container">
       <div class="row">
         
@@ -270,10 +280,11 @@ Click the Get Offer button below to get immediate access
        <div class="col-4">
        <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (25).jpeg";></a>
       </div>
-      
       </div>
       </div>
+      </div>
       
+      <div class="Offer">
     <div class="small-container">
       <div class="row">
         
@@ -286,8 +297,10 @@ Click the Get Offer button below to get immediate access
        </div>
        </div>
        </div>
+       </div>
        
-          <div class="small-container">
+       <div class="Offer">
+    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -316,8 +329,9 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
        
-               <!--Offer 1-->
+       <!--Offer 1-->
        
        <div class="offer">
        <div class="small-container">
@@ -340,6 +354,7 @@ Click the Get Offer button below to get immediate access
       </div>
     </div>
        
+     <div class="Offer">
      <div class="small-container">
       <h2 class="title">Sports Nutrition</h2>
       <div class="row">
@@ -355,8 +370,9 @@ Click the Get Offer button below to get immediate access
        </div>
        </div>
        </div>
-       
+       </div>
          
+         <div class="Offer">
    <div class="small-container">
         <h2 class="title">Weight Management </h2>
       <div class="row">
@@ -373,6 +389,9 @@ Click the Get Offer button below to get immediate access
        
        </div>
       </div>
+      </div>
+      
+      <div class="Offer">
    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
@@ -386,7 +405,9 @@ Click the Get Offer button below to get immediate access
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>   
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -400,8 +421,9 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
     
-            <!--Offer 1-->
+       <!--Offer 1-->
        
        <div class="offer">
        <div class="small-container">
@@ -423,7 +445,8 @@ Click the Get Offer button below to get immediate access
       </div>
     </div>
     
-       <div class="small-container">
+    <div class="Offer">
+    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -437,9 +460,11 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
     
   <!--Featured Products-->
    
+   <div class="Offer">
  <div class="small-container">
       <h2 class="title">Hair and Body Care</h2>
       <div class="row">
@@ -456,8 +481,9 @@ Click the Get Offer button below to get immediate access
        
       </div>
       </div>
+      </div>
      
-       
+      <div class="Offer">
     <div class="small-container">
         <h2 class="title">Bone and Joint Health</h2>
       <div class="row">
@@ -473,9 +499,10 @@ Click the Get Offer button below to get immediate access
        </div>
        </div>
        </div>
+       </div>
        
-       
-          <div class="small-container">
+       <div class="Offer">
+    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -488,7 +515,9 @@ Click the Get Offer button below to get immediate access
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>  
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -502,6 +531,8 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
       <!--Offer 1-->
        
        <div class="offer">
@@ -528,8 +559,8 @@ Click the Get Offer button below to get immediate access
       </div>
     </div>
        
-
-     <div class="small-container">
+<div class="Offer">
+    <div class="small-container">
       <h2 class="title">Eye/Vision Health</h2>
       <div class="row">
         
@@ -545,7 +576,10 @@ Click the Get Offer button below to get immediate access
        
        </div>
        </div>
-          <div class="small-container">
+       </div>
+       
+       <div class="Offer">
+    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -558,7 +592,10 @@ Click the Get Offer button below to get immediate access
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>
+
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -572,6 +609,9 @@ Click the Get Offer button below to get immediate access
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
+<div class="Offer">
     <div class="small-container">
      <h2 class="title">Heart Health</h2>
       <div class="row">
@@ -588,10 +628,11 @@ Click the Get Offer button below to get immediate access
        
        </div>
       </div>
+      </div>
     
   <!--Offer 1-->
       
-       <div class="offer">
+   <div class="offer">
        <div class="small-container">
         <div class="row">
           <div class="col-2">
@@ -611,7 +652,9 @@ The wealthy path to riches does not involve regular savings because the affluent
         </div>
       </div>
     </div>
-         <div class="small-container">
+    
+    <div class="Offer">
+     <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -624,7 +667,9 @@ The wealthy path to riches does not involve regular savings because the affluent
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>   
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -638,8 +683,10 @@ The wealthy path to riches does not involve regular savings because the affluent
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
       <!--Latest Products-->
-      
+      <div class="Offer">
   <div class="small-container">
           <h2 class="title">Organic Facial Care</h2>
       <div class="row">
@@ -656,7 +703,9 @@ The wealthy path to riches does not involve regular savings because the affluent
   
   </div>
   </div>
+  </div>
      
+     <div class="Offer">
    <div class="small-container">
     <h2 class="title">Immune Health</h2>
       <div class="row">
@@ -673,7 +722,10 @@ The wealthy path to riches does not involve regular savings because the affluent
     
      </div>
      </div>
-       <div class="small-container">
+     </div>
+     
+     <div class="Offer">
+   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -686,7 +738,9 @@ The wealthy path to riches does not involve regular savings because the affluent
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>   
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -700,7 +754,11 @@ The wealthy path to riches does not involve regular savings because the affluent
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
-     <div class="small-container">
+</div>
+</div>
+
+<div class="Offer">
+   <div class="small-container">
       <h2 class="title">Healthy Lifestyles</h2>
       <div class="row">
         
@@ -709,14 +767,17 @@ The wealthy path to riches does not involve regular savings because the affluent
        <h4>Super B</h4>
   </div>
         
-    <div class="col-4">
+         <div class="col-4">
        <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (9).jpeg"></a>
        <h4>Cal-Mag</h4>
   </div>
   
    </div>
    </div>
-     <div class="small-container">
+   </div>
+   
+   <div class="Offer">
+   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -730,6 +791,9 @@ The wealthy path to riches does not involve regular savings because the affluent
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
+  <div class="Offer">
    <div class="small-container">
    <h2 class="title">Respiratory Health</h2>
     <div class="row">
@@ -746,7 +810,7 @@ The wealthy path to riches does not involve regular savings because the affluent
        
     </div>
    </div>
-      
+    </div>
       
         <!--Offer 1-->
       
@@ -778,8 +842,8 @@ How to use Trading View and MT4</small><br>
       </div>
     </div>
       
-      
-         <div class="small-container">
+      <div class="Offer">
+   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -792,7 +856,11 @@ How to use Trading View and MT4</small><br>
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div> 
+</div>
+
+<div class="Offer">
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -806,8 +874,11 @@ How to use Trading View and MT4</small><br>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
       <!--Latest Products-->
       
+      <div class="Offer">
   <div class="small-container">
           <h2 class="title">Mode and Stress</h2>
       <div class="row">
@@ -823,7 +894,9 @@ How to use Trading View and MT4</small><br>
   </div>
   </div>
   </div>
+  </div>
 
+    <div class="Offer">
    <div class="small-container">
     <h2 class="title">Sponsored Personal Care</h2>
     <div class="row">
@@ -840,20 +913,10 @@ How to use Trading View and MT4</small><br>
     
      </div>
      </div>
-       <div class="small-container">
-      <div class="row">
-  <script type="text/javascript">
-	atOptions = {
-		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
-</div>
-</div>   <div class="small-container">
+     </div>
+     
+     <div class="Offer">
+    <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -868,7 +931,24 @@ How to use Trading View and MT4</small><br>
 </div>
 </div>
 
-     <div class="small-container">
+<div class="small-container">
+      <div class="row">
+  <script type="text/javascript">
+	atOptions = {
+		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
+</div>
+</div>
+</div>
+
+     <div class="Offer">
+   <div class="small-container">
       <h2 class="title">Vegan Options</h2>
       <div class="row">
         
@@ -884,7 +964,10 @@ How to use Trading View and MT4</small><br>
   
    </div>
    </div>
+   </div>
     
+    
+    <div class="Offer">
    <div class="small-container">
         <h2 class="title">Men's Health</h2>
        <div class="row">
@@ -898,11 +981,13 @@ How to use Trading View and MT4</small><br>
        <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (38).jpeg";></a>
        <h4>Masculine Herbal</h4>
        </div>
-
-           </div>
+       
+    </div>
+   </div>
    </div>
    
-      <div class="small-container">
+   <div class="Offer">
+   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -916,6 +1001,8 @@ How to use Trading View and MT4</small><br>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
      <!--Offer 1-->
       
        <div class="offer">
@@ -937,71 +1024,8 @@ How to use Trading View and MT4</small><br>
       </div>
     </div>
       
-      
-         <div class="small-container">
-      <div class="row">
-  <script type="text/javascript">
-	atOptions = {
-		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
-</div>
-</div>   <div class="small-container">
-      <div class="row">
-  <script type="text/javascript">
-	atOptions = {
-		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
-</div>
-</div>
-      <!--Latest Products-->
-      
-  <div class="small-container">
-          <h2 class="title">Sponsored Home Care Products</h2>
-      <div class="row">
-        
-     <a href="https://shopneolife.com/peterezeudu/shop/atoz"><div class="col-4">
-       <img src="/GL5 STORE /landingpage_l (40).jpeg";></a>
-       <h4>G-One</h4>
-  </div>
-  
-      <div class="col-4">
-       <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (41).jpeg";></a>
-       <h4>Green Gentle wash</h4>
-  </div>
-  
-  </div>
-  </div>
-  
-  
-  
+      <div class="Offer">
    <div class="small-container">
-         <h2 class="title">Heart Solutions</h2>
-      <div class="row">
-        
-    <div class="col-4">
-       <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (43).jpeg";></a>
-  </div>
-  
-    <div class="col-4">
-       <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (42).jpeg";></a>
-    </div>
-    
-     </div>
-     </div>
-    
-       <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -1016,7 +1040,80 @@ How to use Trading View and MT4</small><br>
 </div>
 </div>
 
-     <div class="small-container">
+<div class="small-container">
+      <div class="row">
+  <script type="text/javascript">
+	atOptions = {
+		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
+</div>
+</div>
+</div>
+
+
+      <!--Latest Products-->
+      <div class="Offer">
+  <div class="small-container">
+   <h2 class="title">Sponsored Home Care Products</h2>
+      <div class="row">
+        
+     <a href="https://shopneolife.com/peterezeudu/shop/atoz"><div class="col-4">
+       <img src="/GL5 STORE /landingpage_l (40).jpeg";></a>
+       <h4>G-One</h4>
+  </div>
+  
+      <div class="col-4">
+       <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (41).jpeg";></a>
+       <h4>Green Gentle wash</h4>
+  </div>
+  
+  </div>
+  </div>
+  </div>
+  
+  
+  <div class="Offer">
+   <div class="small-container">
+         <h2 class="title">Heart Solutions</h2>
+      <div class="row">
+        
+    <div class="col-4">
+       <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (43).jpeg";></a>
+  </div>
+  
+    <div class="col-4">
+       <a href="https://shopneolife.com/peterezeudu/shop/atoz"><img src="/GL5 STORE /landingpage_l (42).jpeg";></a>
+    </div>
+    
+     </div>
+     </div>
+     </div>
+    
+    <div class="Offer">
+   <div class="small-container">
+      <div class="row">
+  <script type="text/javascript">
+	atOptions = {
+		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
+</div>
+</div>
+</div>
+
+   <div class="Offer">
+   <div class="small-container">
       <h2 class="title">Protein Supplements</h2>
       <div class="row">
         
@@ -1032,8 +1129,10 @@ How to use Trading View and MT4</small><br>
   
    </div>
    </div>
-  
-     <div class="small-container">
+   </div>
+   
+  <div class="Offer">
+   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -1047,6 +1146,8 @@ How to use Trading View and MT4</small><br>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
 
      <!--Offer 1-->
       
@@ -1077,6 +1178,7 @@ What You’ll Learn:</small><br>
     
       <!--Latest Products-->
       
+      <div class="Offer">
   <div class="small-container">
      <h2 class="title">Women's Health</h2>
       <div class="row">
@@ -1093,9 +1195,10 @@ What You’ll Learn:</small><br>
   
   </div>
   </div>
+  </div>
   
-   
-     <div class="small-container">
+   <div class="Offer">
+   <div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -1108,7 +1211,9 @@ What You’ll Learn:</small><br>
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>   
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -1122,6 +1227,9 @@ What You’ll Learn:</small><br>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
+</div>
+
+    <div class="Offer">
    <div class="small-container">
     <h2 class="title">Children Health</h2>
     <div class="row">
@@ -1138,8 +1246,11 @@ What You’ll Learn:</small><br>
        
     </div>
    </div>
-         <div class="small-container">
-      <div class="row">
+  </div>
+   
+   <div class="Offer">
+  <div class="small-container">
+    <div class="row">
   <script type="text/javascript">
 	atOptions = {
 		'key' : '7bc0a8ccc70f83d28b1fae50b6e6a0e3',
@@ -1152,7 +1263,9 @@ What You’ll Learn:</small><br>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
 </div>
-              <!--Offer 1-->
+</div>
+
+       <!--Offer 1-->
        
        <div class="offer">
        <div class="small-container">
@@ -1168,7 +1281,7 @@ What You’ll Learn:</small><br>
 
 - Use Essential Tools: Learn to use ChatGPT and Google Docs to streamline your work.
 
-- Design Tips: Create attractive product</small><br>
+- Design Tips: Create <at></at>tractive product</small><br>
            <a href="https://selar.com/p/21142s?affiliate=8hfy" class="btn"><b>Learn More &#8594;</b></a>
           
             </div>
@@ -1179,7 +1292,7 @@ What You’ll Learn:</small><br>
 
  
      <!--testimonials-->
-      
+      <div class="Offer">
      <div class="small-container">
       <div class="testimonials">
         <div class="row">
@@ -1216,6 +1329,9 @@ What You’ll Learn:</small><br>
          </div>
        </div>
      </div>
+     </div>
+     
+     <div class="Offer">
         <div class="small-container">
       <div class="row">
   <script type="text/javascript">
@@ -1229,7 +1345,9 @@ What You’ll Learn:</small><br>
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
 </div>
-</div>   <div class="small-container">
+</div>  
+
+<div class="small-container">
       <div class="row">
   <script type="text/javascript">
 	atOptions = {
@@ -1241,6 +1359,7 @@ What You’ll Learn:</small><br>
 	};
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/7bc0a8ccc70f83d28b1fae50b6e6a0e3/invoke.js"></script>
+</div>
 </div>
 </div>
 
