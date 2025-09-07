@@ -58,6 +58,14 @@ p a{
        text-decoration: none;
    }
    
+   .Offer{
+     margin: 30px;
+     padding: 40px;
+   }
+   
+   
+   
+   
    /*----search bar----*/
    
    form {
@@ -67,7 +75,7 @@ p a{
 }
 
 
-input[type="search"] {
+input {
   padding: 5px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -189,6 +197,7 @@ a{
 
 .header{
   background: radial-gradient(#fff,#ffd6d6);
+  width: 1080px;
 }
 .header .row{
   margin-top: 20px;
@@ -208,7 +217,7 @@ a{
   width: 100%;
 }
 .small-container{
-  max-width: 1000px;
+  width: 950px;
   box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
 }
 .col-4{
@@ -279,11 +288,16 @@ h4{
   transform: translateY(-5px);
 }
 
+.ads{
+  width: 200px;
+}
+
 /*-----Offer Section-----*/
 .offer{
-  background: radial-gradient(#fff,#ffd6d6);
-  margin: 50px;
+  background: #ffd6d6;
+  margin: 20px;
   padding: 40px;
+  width: 1050px;
 }
 .col-2 .offer-img{
   padding: 30px;
@@ -623,7 +637,8 @@ h5{
  
  
 .company-service{
-  margin-left: 45px;
+  margin-left: 130px;
+  width: 900px;
 }
 
 /*-----Cart page-----*/
@@ -741,8 +756,7 @@ th:last-child{
 
 
 footer{
-      background: radial-gradient(#fff,#ffd6d6);
-  width: 990px;
+  width: 1080px;
   margin-top: 10%;
   margin-bottom: -270%;
   background: #000000;
@@ -843,4 +857,4 @@ footer .box-3{
   .sidebar {
     width: 25%; /* Adjusts sidebar width for larger screens */
   }
-}
+  }
